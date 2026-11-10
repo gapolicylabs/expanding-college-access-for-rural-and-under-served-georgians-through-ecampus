@@ -14,3 +14,6 @@ Young people from rural areas enroll in and complete postsecondary education at 
 ## Related Research
 
 - [Instructors' Experiences in the Technical College System of Georgia](https://doi.org/10.57709/8VQ7-8A37)
+- [Student Experiences in the Technical College System of Georgia's eCampus Initiative](https://doi.org/10.57709/mk57-dx05)
+- [Academic Outcomes Among Students Enrolled in the Technical College System of Georgia's eCampus Initiative](https://doi.org/10.57709/whdt-5r69)
+- [eCampus Course Offerings and Enrollments in the Technical College System of Georgia: How Well Does eCampus Server Rural Students?](https://doi.org/10.57709/46QA-QM84)
