@@ -11,6 +11,15 @@ Young people from rural areas enroll in and complete postsecondary education at 
 3. How do the availabilities of local campus technological, instructional, student success, and other supports and off-campus supports, such as the provision of Wi-Fi hotspots, affect the outcomes associated with eCampus for rural learners and for rural learners from different groups?
 4. How does eCampus contribute to the diffusion of advanced and innovative learning technologies to TCSG’s rural campuses and rural learners? Do experiences with these technologies improve student outcomes?
 
+## Featured Researchers
+
+<div style="display: flex; gap: 12px;">
+  <img width="200" height="200" alt="David C. Ribar" src="https://github.com/user-attachments/assets/c2ded773-fb79-476c-ae96-a001b990d004" />
+  <img width="200" height="200" alt="Jennifer Darling-Aduana" src="https://github.com/user-attachments/assets/41b880b4-648a-4ad1-89e6-0c8f76edd6de" />
+  <img width="200" height="200" alt="Ross Rubenstein" src="https://github.com/user-attachments/assets/ed9c5c06-020b-41b8-987a-957c3cb57b18" />
+  <img width="200" height="200" alt="Deborah Aba Gaisie" src="https://github.com/user-attachments/assets/2fe0b250-1eaa-4361-aa6f-1fe14e6551a7" />
+</div>
+
 ## Related Research
 
 - [Instructors' Experiences in the Technical College System of Georgia](https://doi.org/10.57709/8VQ7-8A37)
