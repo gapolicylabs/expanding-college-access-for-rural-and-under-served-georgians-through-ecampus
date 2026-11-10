@@ -13,39 +13,34 @@ Young people from rural areas enroll in and complete postsecondary education at 
 
 ## Featured Researchers
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <a href="https://ays.gsu.edu/profile/david-c-ribar/">
-      <img width="200" height="200" alt="David C. Ribar" src="https://github.com/user-attachments/assets/c2ded773-fb79-476c-ae96-a001b990d004" />
-    </a>
-    <br />
-    David C. Ribar
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://education.gsu.edu/profile/jennifer-darling-aduana/">
-      <img width="200" height="200" alt="Jennifer Darling-Aduana" src="https://github.com/user-attachments/assets/41b880b4-648a-4ad1-89e6-0c8f76edd6de" />
-    </a>
-    <br />
-    Jennifer Darling-Aduana
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://ays.gsu.edu/profile/ross-rubenstein/">
-      <img width="200" height="200" alt="Ross Rubenstein" src="https://github.com/user-attachments/assets/ed9c5c06-020b-41b8-987a-957c3cb57b18" />
-    </a>
-    <br />
-    Ross Rubenstein
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://gpl.gsu.edu/profile/deborah-aba-gaisie/">
-      <img width="200" height="200" alt="Deborah Aba Gaisie" src="https://github.com/user-attachments/assets/2fe0b250-1eaa-4361-aa6f-1fe14e6551a7" />
-    </a>
-    <br />
-    Deborah Aba Gaisie
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://ays.gsu.edu/profile/david-c-ribar/">
+        <img width="200" alt="David C. Ribar" src="https://github.com/user-attachments/assets/c2ded773-fb79-476c-ae96-a001b990d004" />
+      </a><br />
+      David C. Ribar
+    </td>
+    <td align="center">
+      <a href="https://education.gsu.edu/profile/jennifer-darling-aduana/">
+        <img width="200" alt="Jennifer Darling-Aduana" src="https://github.com/user-attachments/assets/41b880b4-648a-4ad1-89e6-0c8f76edd6de" />
+      </a><br />
+      Jennifer Darling-Aduana
+    </td>
+    <td align="center">
+      <a href="https://ays.gsu.edu/profile/ross-rubenstein/">
+        <img width="200" alt="Ross Rubenstein" src="https://github.com/user-attachments/assets/ed9c5c06-020b-41b8-987a-957c3cb57b18" />
+      </a><br />
+      Ross Rubenstein
+    </td>
+    <td align="center">
+      <a href="https://gpl.gsu.edu/profile/deborah-aba-gaisie/">
+        <img width="200" alt="Deborah Aba Gaisie" src="https://github.com/user-attachments/assets/2fe0b250-1eaa-4361-aa6f-1fe14e6551a7" />
+      </a><br />
+      Deborah Aba Gaisie
+    </td>
+  </tr>
+</table>
 
 ## Related Research
 
